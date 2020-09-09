@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "coffee"
+theme = "forest"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -22,7 +22,7 @@ day_night = false
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "Classic"
+font = "Minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -97,7 +97,7 @@ address = {street = "Remisebosweg 1", city = "Leuven", region = "", postcode = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "50.86810105935723", longitude = "4.665466669594505"}
+coordinates = {latitude = "50.866968", longitude = "4.678646"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -180,7 +180,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = true
+  gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "square"
