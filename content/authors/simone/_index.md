@@ -14,9 +14,10 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: KU Leuven
+- name: Katholieke Universiteit Leuven
+  url: https://www.kuleuven.be/english/
 - name: Neuro-electronics Research Flanders
-  url: ""
+  url: https://nerf.be
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include neurotech, mobile computing and programmable matter.

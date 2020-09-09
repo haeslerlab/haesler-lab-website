@@ -1,21 +1,23 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sebastian Haesler
 
 # Username (this should match the folder name)
 authors:
-- admin
+- sebastian
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Neuroscience
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Katholieke Universiteit Leuven
+  url: https://www.kuleuven.be/english/
+- name: Neuro-electronics Research Flanders
+  url: http://nerf.be
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -45,7 +47,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
@@ -66,10 +68,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sebastian Haesler is a professor of Morbi massa sapien, egestas ac urna ac, porta porttitor dui. Nullam sagittis felis ut magna pretium faucibus. Aenean non leo finibus, efficitur neque nec, finibus sem. Donec viverra, nibh ut blandit facilisis, libero ex suscipit velit, sit amet condimentum odio lacus vitae mauris. Donec porta venenatis diam, non feugiat elit egestas nec. Donec sit amet porta sem. Aenean porta odio nec lectus sollicitudin, eu lobortis ligula bibendum.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ut ante velit, vestibulum quis euismod sit amet, euismod eget turpis. In interdum venenatis mauris, a tincidunt massa pulvinar at. Suspendisse mollis scelerisque suscipit. Aenean elementum tortor nec erat rutrum tempor. Quisque mattis bibendum metus, a sagittis nibh convallis eu. Etiam ut porta lorem. Nulla gravida ipsum at felis tristique congue.
