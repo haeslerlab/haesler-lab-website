@@ -97,7 +97,7 @@ address = {street = "Remisebosweg 1", city = "Leuven", region = "", postcode = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "50.866968", longitude = "4.678646"}
+coordinates = {latitude = "50.867270", longitude = "4.678430"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -265,7 +265,7 @@ plugins_js  = []
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   engine = 1
-  api_key = ""
+  api_key = "AIzaSyB6tLi8AzBVDNXLijmpnq0G-oiuDLLXkLk"
   zoom = 15
 
 ############################
