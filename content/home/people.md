@@ -3,7 +3,7 @@
 # This section displays people from `content/authors/` which belong to the `user_groups` below.
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 125  # Order that this section will appear.
 
