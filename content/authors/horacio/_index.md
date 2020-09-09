@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Horacio Londono Ramirez
+title: Horacio Londoño Ramirez
 
 # Username (this should match the folder name)
 authors:
