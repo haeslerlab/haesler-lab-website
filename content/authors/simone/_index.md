@@ -8,7 +8,7 @@ authors:
 - simone
 
 # Is this the primary user of the site?
-#
+# no need to touch this
 superuser: false
 
 # Role/position
@@ -39,8 +39,8 @@ education:
     institution: KU Leuven
     year: ongoing
   - course: MEng in Biomedical Engineering
-    institution: Massachusetts Institute of Technology
-    year: 2012
+    institution: University of Glasgow
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
