@@ -15,10 +15,13 @@ role: Research Lab on Neurosience & Neurotechnology
 # Organizations/Affiliations
 organizations:
 - name: KU Leuven
-  url: https://www.kuleuven.be/english/
+  url: https://www.kuleuven.be
 - name: NERF
   url: http://nerf.be
-- name: VIB  
+- name: VIB 
+  url: http://vib.be
+- name: imec
+  url: http://imec-int.com
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
