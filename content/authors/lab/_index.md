@@ -1,43 +1,44 @@
 ---
 # Display name
-title: Sebastian Haesler
+title: Haesler Lab
 
 # Username (this should match the folder name)
 authors:
-- sebastian
+- lab
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Professor of Neuroscience
+role: Research Lab on Neurosience & Neurotechnology
 
 # Organizations/Affiliations
 organizations:
-- name: Katholieke Universiteit Leuven
+- name: KU Leuven
   url: https://www.kuleuven.be/english/
-- name: Neuro-electronics Research Flanders
+- name: NERF
   url: http://nerf.be
+- name: VIB  
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,10 +68,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Principal Investigators
+user_groups: []
 ---
 
-Sebastian Haesler is a professor of Morbi massa sapien, egestas ac urna ac, porta porttitor dui. Nullam sagittis felis ut magna pretium faucibus. Aenean non leo finibus, efficitur neque nec, finibus sem. Donec viverra, nibh ut blandit facilisis, libero ex suscipit velit, sit amet condimentum odio lacus vitae mauris. Donec porta venenatis diam, non feugiat elit egestas nec. Donec sit amet porta sem. Aenean porta odio nec lectus sollicitudin, eu lobortis ligula bibendum.
+Haesler Lab is a vibrant place for research and is a professor of Morbi massa sapien, egestas ac urna ac, porta porttitor dui. Nullam sagittis felis ut magna pretium faucibus. Aenean non leo finibus, efficitur neque nec, finibus sem. Donec viverra, nibh ut blandit facilisis, libero ex suscipit velit, sit amet condimentum odio lacus vitae mauris. Donec porta venenatis diam, non feugiat elit egestas nec. Donec sit amet porta sem. Aenean porta odio nec lectus sollicitudin, eu lobortis ligula bibendum.
 
 Ut ante velit, vestibulum quis euismod sit amet, euismod eget turpis. In interdum venenatis mauris, a tincidunt massa pulvinar at. Suspendisse mollis scelerisque suscipit. Aenean elementum tortor nec erat rutrum tempor. Quisque mattis bibendum metus, a sagittis nibh convallis eu. Etiam ut porta lorem. Nulla gravida ipsum at felis tristique congue.
