@@ -49,8 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: #contact #or
-	#link: mailto:simone.marcigaglia@nerf.be if you don't mind giving out your email
+  link: #contact #or link: mailto:name.surname@nerf.be if you don't mind giving out your email
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/simone-marcigaglia/
