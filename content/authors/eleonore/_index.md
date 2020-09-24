@@ -20,24 +20,19 @@ organizations:
   url: https://nerf.be
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neurotech, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+bio: My research interests are system neuroscience, information theory and theoretical neuroscience.
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biomedical Science
+    institution: KU Leuven
+    year: 2020 - 
+  - course: Master in Cognitive Science
+    institution: ENS (Ulm) / EHESS / Paris Descartes
+    year: 2017 - 2019
+  - course: BSc in General Biology
+    institution: Sorbonne Université
+    year: 2014 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,16 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:simone.marcigaglia@nerf.be #substitute with "#contact" if you don't want to give out your email
+  link: mailto:eleonore.schiltz@nerf.be #substitute with "#contact" if you don't want to give out your email
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/simone-marcigaglia/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/el%C3%A9onore-schiltz-01a323142/
 - icon: github
   icon_pack: fab
-  link: https://github.com/SimoneMarcigaglia
+  link: https://github.com/eleonoresz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -76,6 +68,6 @@ user_groups:
 
 ---
 
-Eléonore Schiltz is a Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
+The question I would like to address during my PhD is how the information of novelty emerge from the neural network treatment of the stimulus.
 
-Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+I want to quantify precisely the novel versus familiar discrimination in an odor task with psychophysic methods. This will be combined with a chronic recording of the brain using a world leading technique of IMEC, the Neuropixel probe 2.0. Using my background in computational neuroscience, I will then build a model constraint by the behavior and the neural response to propose a theoretical mechanism of novelty detection.
