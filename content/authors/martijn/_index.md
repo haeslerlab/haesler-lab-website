@@ -36,14 +36,14 @@ interests:
 education:
   courses:
   - course: PhD in Biomedical Sciences
-  institution: KU Leuven
-  year: ongoing
+    institution: KU Leuven
+    year: ongoing
   - course: MSc in Biomedical Sciences
-  institution: KU Leuven
-  year: 2017
+    institution: KU Leuven
+    year: 2017
   - course: BSc in Biomedical Sciences
-  institution: KU Leuven
-  year: 2015
+    institution: KU Leuven
+    year: 2015
 	
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
