@@ -53,9 +53,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/simone-marcigaglia/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Simone_Marcigaglia
 - icon: github
   icon_pack: fab
   link: https://github.com/SimoneMarcigaglia
@@ -83,6 +83,6 @@ user_groups:
 
 ---
 
-Simone Marcigaglia is a Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
+My research focus at NERF revolves around the clinical strategies for fluidic interaction with the brain. In situations where drug therapies lack the specificity necessary to combat central nervous system pathologies, innovative solutions are needed to increase the penetration and efficacy of neuroactive agents.
 
-Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+One of these conditions is Glioblastoma Multiforme, a malignant form of brain cancer that is characterised by its extremely aggressive nature and, consequently, very slim chances of survival. In this context, my research aims to improve the delivery of agents to certain target regions within the brain as well as provide the tools for better in vivo tumour characterisation.
