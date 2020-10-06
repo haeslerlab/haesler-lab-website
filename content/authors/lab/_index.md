@@ -23,25 +23,6 @@ organizations:
 - name: imec
   url: http://imec-int.com
 
-# Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
-
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -74,6 +55,4 @@ email: ""
 user_groups: []
 ---
 
-Haesler Lab is a vibrant place for research and is a professor of Morbi massa sapien, egestas ac urna ac, porta porttitor dui. Nullam sagittis felis ut magna pretium faucibus. Aenean non leo finibus, efficitur neque nec, finibus sem. Donec viverra, nibh ut blandit facilisis, libero ex suscipit velit, sit amet condimentum odio lacus vitae mauris. Donec porta venenatis diam, non feugiat elit egestas nec. Donec sit amet porta sem. Aenean porta odio nec lectus sollicitudin, eu lobortis ligula bibendum.
-
-Ut ante velit, vestibulum quis euismod sit amet, euismod eget turpis. In interdum venenatis mauris, a tincidunt massa pulvinar at. Suspendisse mollis scelerisque suscipit. Aenean elementum tortor nec erat rutrum tempor. Quisque mattis bibendum metus, a sagittis nibh convallis eu. Etiam ut porta lorem. Nulla gravida ipsum at felis tristique congue.
+Haesler Lab is a vibrant place for research and is at centre of many exciting projects in the most innovative city of Europe. In our lab, we aim at gaining a mechanistic understanding of the brain by studying fundamental information processing problems, that are evolutionarily conserved and can be readily studied in mice, the genetically most tractable mammal. Specifically, we focus on a simple computation, the ability to discriminate novel from familiar sensory stimuli. We use multielectrodes & optogenetics in awake behaving animals to investigate how sensory representations of novel but not familiar stimuli are transformed into motor responses. Moreover, we employ viral circuit tracing to delineate novelty circuits with cell type specific resolution. In addition to the experimental work on novelty circuits, we engage in method development, with a particular emphasis on novel brain interfaces.
