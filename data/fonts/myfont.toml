@@ -1,8 +1,8 @@
 # Font style metadata
-name = "customFont"
+name = "myfont"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat&family=Quicksand:wght@400;700"  
+google_fonts = "family=Montserrat&family=Quicksand"  
 
 # Font families
 heading_font = "Quicksand"
