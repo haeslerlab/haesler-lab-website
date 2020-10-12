@@ -1,0 +1,15 @@
+# Font style metadata
+name = "customFont"
+
+# Optional Google font URL
+google_fonts = "family=Montserrat&family=Quicksand:wght@400;700"  
+
+# Font families
+heading_font = "Quicksand"
+body_font = "Quicksand"
+nav_font = "Quicksand"
+mono_font = "Montserrat"
+
+# Font size
+font_size = "20"
+font_size_small = "16"

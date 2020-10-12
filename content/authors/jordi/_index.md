@@ -19,25 +19,18 @@ organizations:
 - name: Neuro-electronics Research Flanders
   url: https://nerf.be
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include neurotech, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Biomedical Sciences
+    institution: KU Leuven, imec
+    year: 2017
+  - course: MSc Biomedical Sciences, Bioelectronics and Nanotechnology
+    institution: Hasselt University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc Biomedical Sciences
+    institution: Hasselt University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -76,6 +69,4 @@ user_groups:
 
 ---
 
-Jordi Cools is a Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
-
-Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+As a Neural Engineer for NERF, I am involved in the coordination and hands-on support on various projects related to novel in vitro and in vivo devices for neuro-applications. Examples include flexible, intracranial electrocorticography (ECoG) arrays using large-area electronics, novel catheter designs for convection-enhanced drug delivery (CED), and novel platforms for neural recording and stimulation.
