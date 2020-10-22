@@ -14,30 +14,32 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Katholieke Universiteit Leuven
-  url: https://www.kuleuven.be/english/
-- name: Neuro-electronics Research Flanders
+- name: KU Leuven
+  url: https://www.kuleuven.be
+- name: NERF
   url: https://nerf.be
+- name: imec
+  url: https://imec-int.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neurotech, mobile computing and programmable matter.
+bio: My research interests include novel neurotechnologies.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neurotechnology
+- Implantable Electrodes
+- Flexible Electronics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biomedical Sciences
+    institution:  KU  Leuven
+    year:  ongoing
+  - course: Erasmus Mundus Master Nanoscience and Nanotechnology
+    institution: KU Leuven & TU Dresden
+    year: 2016
+  - course: BSc in Electronics Engineering
+    institution: Polytechnic University of Catalonia
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,16 +48,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:simone.marcigaglia@nerf.be #substitute with "#contact" if you don't want to give out your email
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/simone-marcigaglia/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/SimoneMarcigaglia
+  link: mailto:horacio.londonoramirez@nerf.be #substitute with "#contact" if you don't want to give out your email
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,7 +69,7 @@ user_groups:
 
 
 ---
+Flexible electronics for interfacing with the brain
+Current electrocorticography (ECoG) arrays are based on passive technologies, having a reduced electrode count and generally low spatial resolution, which heavily under-samples cortical areas and provides a limited coverage of the brain. Microfabrication technologies, specifically thin-film electronics, provide a way to overcome this by integrating active electronics components, such as transistors, into large-area flexible substrates.
 
-Horacio Londono Ramirez is a Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
-
-Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+At NERF, we are currently working on active, flexible, µECoG based on thin-film electronics for high density neural recording.
