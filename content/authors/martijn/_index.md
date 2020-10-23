@@ -67,14 +67,11 @@ social:
 email: ""
 
 # Organizational groups that you belong to (for People widget)
-# Choose one of the following:
-# "Principal Investigators",
-# "Postdoctoral researchers",
-# "Doctoral students",
-# "Students & Interns",
-# "Administration",
-# "Alumni"
-
+# Choose one of the following: 
+# Principal Investigators
+# Senior staff
+# Doctoral students
+# Alumni
 user_groups:
 - Doctoral students
 

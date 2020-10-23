@@ -61,11 +61,13 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+# Choose one of the following: 
+# Principal Investigators
+# Senior staff
+# Doctoral students
+# Alumni
 user_groups:
 - Doctoral students
-
-# Choose one of the following "Principal Investigators", "Post-doctoral students",
-#                              "Doctoral students", "Administration", "Alumni"
 
 
 ---
