@@ -47,6 +47,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 
 social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:simone.marcigaglia@nerf.be
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/simone-marcigaglia/
