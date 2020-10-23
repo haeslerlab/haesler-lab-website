@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Lab on Neurosience & Neurotechnology
+role: Research Lab on Neuroscience & Neurotechnology
 
 # Organizations/Affiliations
 organizations:
