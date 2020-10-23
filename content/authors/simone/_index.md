@@ -51,7 +51,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/simone-marcigaglia/
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Simone_Marcigaglia
 - icon: github
   icon_pack: fab
