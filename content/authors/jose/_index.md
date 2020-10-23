@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jose.esquivelzetarabell@nerf.be if you don't mind giving out your email
+  link: mailto:jose.esquivelzetarabell@nerf.be
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jose-esquivelzeta/
