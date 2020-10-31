@@ -18,26 +18,30 @@ organizations:
   url: https://www.kuleuven.be/english/
 - name: Neuro-electronics Research Flanders
   url: https://nerf.be
+- name: Vlaams Instituut voor Biotechnologie
+  url: https://vib.be/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neurotech, mobile computing and programmable matter.
+bio: I aim to understand how processing of sensory information is modified in our brain to accompany our actions. I study the impact of behaviour in various sensory modalities such as vision and olfaction. In addition, I investigate the transformation of sensory information to encoding of value and learning by studying underlying dopaminergic mechanisms (i.e. beer vs water).
+
+By combining these fundamental insights about brain function, I aim to probe the electrophysiological signatures of brain-related disorders such as post-traumatic stress disorder.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neuronal circuits 
+- Biomedical Engineering
+- Neuropixels
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Cognitive and Molecular Neuroscience
+    institution: Katholieke Universiteit Leuven
+    year: 2019
+  - course: MsC in Biomedical Engineering
+    institution: Bogazici University
+    year: 2013
+  - course: BSc in Electronics Engineering
+    institution: Isik University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,16 +50,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:simone.marcigaglia@nerf.be #substitute with "#contact" if you don't want to give out your email
+  link: mailto:cagatayaydin@msn.com #substitute with "#contact" if you don't want to give out your email
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/simone-marcigaglia/
+  link: https://be.linkedin.com/in/%C3%A7a%C4%9Fatay-ayd%C4%B1n-7447931b
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.be/citations?user=gAOnGS4AAAAJ&hl=en
+- icon: twitter
+  icon_pack: ai
+  link: https://twitter.com/cagjony?lang=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/SimoneMarcigaglia
+  link: https://github.com/cagjony
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
