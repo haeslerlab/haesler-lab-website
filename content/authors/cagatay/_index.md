@@ -57,7 +57,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.be/citations?user=gAOnGS4AAAAJ&hl=en
 - icon: twitter
-  icon_pack: ai
+  icon_pack: fab
   link: https://twitter.com/cagjony?lang=en
 - icon: github
   icon_pack: fab
