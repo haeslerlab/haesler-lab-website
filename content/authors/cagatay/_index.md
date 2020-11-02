@@ -22,9 +22,7 @@ organizations:
   url: https://vib.be/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I aim to understand how processing of sensory information is modified in our brain to accompany our actions. I study the impact of behaviour in various sensory modalities such as vision and olfaction. In addition, I investigate the transformation of sensory information to encoding of value and learning by studying underlying dopaminergic mechanisms (i.e. beer vs water).
-
-By combining these fundamental insights about brain function, I aim to probe the electrophysiological signatures of brain-related disorders such as post-traumatic stress disorder.
+bio: 
 
 interests:
 - Neuronal circuits 
@@ -84,3 +82,7 @@ user_groups:
 - Senior staff
 
 ---
+
+I aim to understand how processing of sensory information is modified in our brain to accompany our actions. I study the impact of behaviour in various sensory modalities such as vision and olfaction. In addition, I investigate the transformation of sensory information to encoding of value and learning by studying underlying dopaminergic mechanisms (i.e. beer vs water).
+
+By combining these fundamental insights about brain function, I aim to probe the electrophysiological signatures of brain-related disorders such as post-traumatic stress disorder.
