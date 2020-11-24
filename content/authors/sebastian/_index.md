@@ -17,7 +17,7 @@ organizations:
 - name: Katholieke Universiteit Leuven
   url: https://www.kuleuven.be/english/
 - name: Neuro-electronics Research Flanders
-  url: http://nerf.be
+  url: http://www.nerf.be
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

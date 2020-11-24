@@ -17,9 +17,9 @@ organizations:
 - name: Katholieke Universiteit Leuven
   url: https://www.kuleuven.be/english/
 - name: Neuro-electronics Research Flanders
-  url: https://nerf.be
+  url: https://www.nerf.be
 - name: Vlaams Instituut voor Biotechnologie
-  url: https://vib.be/
+  url: https://www.vib.be
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

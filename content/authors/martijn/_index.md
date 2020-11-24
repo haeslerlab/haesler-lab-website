@@ -19,9 +19,9 @@ organizations:
 - name: KU Leuven
   url: https://www.kuleuven.be
 - name: NERF
-  url: https://nerf.be
+  url: https://www.nerf.be
 - name: imec
-  url: https://imec-int.com
+  url: https://www.imec-int.com
 - name: Leuven Brain Institute
   url: https://gbiomed.kuleuven.be/english/LBI/
 

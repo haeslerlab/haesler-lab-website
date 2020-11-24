@@ -14,14 +14,14 @@ role: Research Lab on Neuroscience & Neurotechnology
 
 # Organizations/Affiliations
 organizations:
+- name: NERF
+  url: http://www.nerf.be
+- name: VIB 
+  url: http://www.vib.be
+- name: imec
+  url: http://www.imec-int.com
 - name: KU Leuven
   url: https://www.kuleuven.be
-- name: NERF
-  url: http://nerf.be
-- name: VIB 
-  url: http://vib.be
-- name: imec
-  url: http://imec-int.com
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

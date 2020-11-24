@@ -19,11 +19,11 @@ organizations:
 - name: KU Leuven
   url: https://www.kuleuven.be
 - name: NERF
-  url: https://nerf.be
+  url: https://www.nerf.be
 - name: imec
-  url: https://imec-int.com
+  url: https://www.imec-int.com
 - name: FWO
-  url: https://fwo.be
+  url: https://www.fwo.be
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include neurotech, mobile computing and programmable matter.
