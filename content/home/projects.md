@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Projects"
-subtitle = ""
+title = "Resarch topics"
+subtitle = "Discover what we qre working on!"
 
 [content]
   # Page type to display. E.g. project.
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
