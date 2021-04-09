@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2021-04-09T16:39:47+02:00
+lastmod: 2021-04-09T18:04:47+02:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T15:54:28.800841Z'
+publishDate: '2021-04-09T16:04:46.997120Z'
 publication_types:
 - '2'
 abstract: Technological advances have the potential to dramatically increase our understanding

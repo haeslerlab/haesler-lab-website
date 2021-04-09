@@ -5,17 +5,17 @@ title: IR thermography-based monitoring of respiration phase without image segme
 subtitle: ''
 summary: ''
 authors:
-- K. Mutlu
-- J. Esquivelzeta Rabell
-- P. Martin del Olmo
-- S. Haesler
+- Kadir Mutlu
+- José Esquivelzeta Rabell
+- Pamela Martin del Olmo
+- Sebastian Haesler
 tags:
 - '"Exploratory sniffing"'
 - '"Inhalation"'
 - '"Patient monitoring"'
 categories: []
 date: '2018-01-01'
-lastmod: 2021-04-09T16:39:46+02:00
+lastmod: 2021-04-09T18:04:46+02:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T15:54:28.045369Z'
+publishDate: '2021-04-09T16:04:46.244870Z'
 publication_types:
 - '2'
 abstract: Background Respiratory rate is an essential parameter in biomedical research

@@ -22,7 +22,7 @@ tags:
 - '"infrared thermography"'
 categories: []
 date: '2017-01-01'
-lastmod: 2021-04-09T16:39:46+02:00
+lastmod: 2021-04-09T18:04:46+02:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T15:54:28.422143Z'
+publishDate: '2021-04-09T16:04:46.620466Z'
 publication_types:
 - '2'
 abstract: Summary Navigation, finding food sources, and avoiding danger critically

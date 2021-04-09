@@ -6,18 +6,18 @@ title: Implantation of Neuropixels probes for chronic recording of neuronal acti
 subtitle: ''
 summary: ''
 authors:
-- rik van Daal
+- Rik Van Daal
 - Cagatay Aydin
-- frederic Michon
+- Frederic Michon
 - Arno Aarts
-- michael Kraft
+- Michael Kraft
 - Fabian Kloosterman
 - Sebastian Haesler
 tags:
 - '"03 Chemical Sciences"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-04-09T16:39:44+02:00
+lastmod: 2021-04-09T18:04:45+02:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T15:54:26.547686Z'
+publishDate: '2021-04-09T16:04:44.706226Z'
 publication_types:
 - '2'
 abstract: 'How dynamic activity in neural circuits gives rise to behaviour is a major

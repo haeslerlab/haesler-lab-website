@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-04-09T16:39:45+02:00
+lastmod: 2021-04-09T18:04:45+02:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T15:54:26.919028Z'
+publishDate: '2021-04-09T16:04:45.092496Z'
 publication_types:
 - '2'
 abstract: In this issue, Gill et al. apply holographic optogenetic stimulation in
