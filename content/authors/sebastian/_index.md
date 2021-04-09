@@ -23,27 +23,30 @@ organizations:
 bio: My research interests include 
 
 interests:
-- Systems biology
-- Learning & memory
-- Neurobiology
+- Neuroscience
+- 
+- 
 
 education:
   courses:
-  - course: Postdoc
-    institution: Harvard University (US)
-    year: 2007-2012
-  - course: PhD 
-    institution: Max Planck Institute for Molecular Genetics (Germany) 
-    year: 2006
-  - course: MSc 
-    institution: Hohenheim University (Germany)
-    year: 2001
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 
+  - course: Master's degree in 
+    institution: 
+    year: 
+  - course: BSc in 
+    institution: 
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: 
@@ -67,4 +70,7 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
-Sebastian Haesler
+
+Sebastian Haesler is a professor of Morbi massa sapien, egestas ac urna ac, porta porttitor dui. Nullam sagittis felis ut magna pretium faucibus. Aenean non leo finibus, efficitur neque nec, finibus sem. Donec viverra, nibh ut blandit facilisis, libero ex suscipit velit, sit amet condimentum odio lacus vitae mauris. Donec porta venenatis diam, non feugiat elit egestas nec. Donec sit amet porta sem. Aenean porta odio nec lectus sollicitudin, eu lobortis ligula bibendum.
+
+Ut ante velit, vestibulum quis euismod sit amet, euismod eget turpis. In interdum venenatis mauris, a tincidunt massa pulvinar at. Suspendisse mollis scelerisque suscipit. Aenean elementum tortor nec erat rutrum tempor. Quisque mattis bibendum metus, a sagittis nibh convallis eu. Etiam ut porta lorem. Nulla gravida ipsum at felis tristique congue.
