@@ -30,13 +30,13 @@ interests:
 education:
   courses:
   - course: Postdoc
-    institution: Harvard University, US
+    institution: Harvard University (US)
     year: 2007-2012
   - course: PhD 
-    institution: Max Planck Institute for Molecular Genetics, Germany 
+    institution: Max Planck Institute for Molecular Genetics (Germany) 
     year: 2006
   - course: MSc 
-    institution: Hohenheim University, Germany
+    institution: Hohenheim University (Germany)
     year: 2001
 
 # Social/Academic Networking
@@ -67,3 +67,4 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
+Sebastian Haesler
