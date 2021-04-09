@@ -13,15 +13,10 @@ authors:
 - Veerle Baekelandt
 - Dries Braeken
 - Sebastian Haesler
-tags:
-- '"Grating coupler"'
-- '"Optogenetics"'
-- '"Optoprobe"'
-- '"Silicon photonics"'
-- '"Waveguide"'
+tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2020-09-09T22:04:28+02:00
+lastmod: 2021-04-09T16:39:46+02:00
 featured: false
 draft: false
 
@@ -39,10 +34,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-09T20:04:28.028240Z'
+publishDate: '2021-04-09T14:39:45.710380Z'
 publication_types:
-- 2
-abstract: Optogenetic manipulations are widely used for investigating the contribution
+- '2'
+abstract: ' Optogenetic manipulations are widely used for investigating the contribution
   of genetically identified cell types to behavior. Simultaneous electrophysiological
   recordings are less common, although they are critical for characterizing the specific
   impact of optogenetic manipulations on neural circuits in vivo. This is at least
@@ -61,14 +56,15 @@ abstract: Optogenetic manipulations are widely used for investigating the contri
   simultaneously, with no measurable electrical artifact during optical stimulation.
   Importantly, optical stimulation can be confined to small volumes with approximately
   single-cortical layer thickness. Finally, we find that even highly localized optical
-  stimulation causes inhibition at more distant sites. NEW & NOTEWORTHY In this study,
+  stimulation causes inhibition at more distant sites.NEW & NOTEWORTHY In this study,
   we establish a novel tool for simultaneous extracellular recording and optogenetic
   photostimulation. Because the device is built using established microchip technology,
   it can be fabricated with high reproducibility and reliability. We further show
   that even very localized stimulation affects neural firing far beyond the stimulation
   site. This demonstrates the difficulty in predicting circuit-level effects of optogenetic
   manipulations and highlights the importance of closely monitoring neural activity
-  in optogenetic experiments.
+  in optogenetic experiments. '
 publication: '*Journal of Neurophysiology*'
+url_pdf: '  https://doi.org/10.1152/jn.00888.2017 '
 doi: 10.1152/jn.00888.2017
 ---

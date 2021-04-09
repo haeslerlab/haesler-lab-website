@@ -1,21 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Investigation of the Stimulation Capabilities of a High-Resolution Neurorecording
-  Probe for the Application of Closed-Loop Deep Brain Stimulation*
+title: 'Genes for tuning up the vocal brain: FoxP2 in human speech and birdsong'
 subtitle: ''
 summary: ''
 authors:
-- Thomas Tarnaud
-- Emmeric Tanghe
 - Sebastian Haesler
-- Carolina Mora Lopez
-- Luc Martens
-- Wout Joseph
+- Constance Scharff
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2021-04-09T16:39:48+02:00
+date: '2008-01-01'
+lastmod: 2021-04-09T16:39:47+02:00
 featured: false
 draft: false
 
@@ -33,11 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T14:39:48.005349Z'
+publishDate: '2021-04-09T14:39:47.627674Z'
 publication_types:
-- '2'
+- '6'
 abstract: ''
-publication: '*2018 40th Annual International Conference of the IEEE Engineering in
-  Medicine and Biology Society (EMBC)*'
-doi: 10.1109/embc.2018.8512650
+publication: '*Neuroscience of Birdsong*'
 ---

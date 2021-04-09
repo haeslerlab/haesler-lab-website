@@ -6,23 +6,23 @@ title: High-density optrode-electrode neural probe using SixNy photonics for in 
 subtitle: ''
 summary: ''
 authors:
-- Luis Hoffman
-- Marleen Welkenhuysen
-- Alexandra Andrei
-- Silke Musa
-- Zhenxiang Luo
-- Sarah Libbrecht
-- Simone Severi
-- Philippe Soussan
-- Veerle Baekelandt
-- Sebastian Haesler
-- Georges Gielen
-- Robert Puers
-- Dries Braeken
+- L. Hoffman
+- M. Welkenhuysen
+- A. Andrei
+- S. Musa
+- Z. Luo
+- S. Libbrecht
+- S. Severi
+- P. Soussan
+- V. Baekelandt
+- S. Haesler
+- G. Gielen
+- R. Puers
+- D. Braeken
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2020-09-09T22:04:28+02:00
+lastmod: 2021-04-09T16:39:48+02:00
 featured: false
 draft: false
 
@@ -40,23 +40,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-09T20:04:28.375319Z'
+publishDate: '2021-04-09T14:39:48.376386Z'
 publication_types:
-- 1
-abstract: 'Moore s law in neural sciences: we present an optical neural probe (optoprobe)
-  with the highest integration density of optrodes-electrodes using a CMOS process
-  platform in 193 nm lithography. We designed, developed, and packaged an ultrathin
-  (30 $μ$m) optical neural probe, co-integrating silicon nitride (SixNy) photonics
-  and biocompatible titanium nitride (TiN) electrodes (1). Functionality was verified
-  in vivo by optically evoking and electrically recording neuronal activity in a mouse
-  brain. Our design takes advantage of CMOS technology and incorporates 12 miniaturized
-  optical outputs (optrodes) placed symmetrically next to 24 recording electrodes
-  on a narrow 100-$μ$m wide shank. We achieved an unprecedented optrode density by
-  integrating grating couplers (GCs) instead of traditional end-butt coupling. The
-  size of each optrode and electrode is 6 × 20 $μ$m2 and 10 × 10 $μ$m2 respectively,
-  which is the typical size of a neuron. The system was capable of local excitation
-  and recording of transduced neurons, a breakthrough achieved by the high-density
-  integration.'
-publication: '*Technical Digest - International Electron Devices Meeting, IEDM*'
+- '1'
+abstract: ''
+publication: '*2015 IEEE International Electron Devices Meeting (IEDM)*'
 doi: 10.1109/IEDM.2015.7409795
 ---

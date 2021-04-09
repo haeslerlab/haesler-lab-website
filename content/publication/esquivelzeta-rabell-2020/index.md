@@ -1,21 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Investigation of the Stimulation Capabilities of a High-Resolution Neurorecording
-  Probe for the Application of Closed-Loop Deep Brain Stimulation*
+title: Probing Olfaction in Space and Time
 subtitle: ''
 summary: ''
 authors:
-- Thomas Tarnaud
-- Emmeric Tanghe
+- José Esquivelzeta Rabell
 - Sebastian Haesler
-- Carolina Mora Lopez
-- Luc Martens
-- Wout Joseph
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2021-04-09T16:39:48+02:00
+date: '2020-01-01'
+lastmod: 2021-04-09T16:39:45+02:00
 featured: false
 draft: false
 
@@ -33,11 +28,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T14:39:48.005349Z'
+publishDate: '2021-04-09T14:39:44.951128Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*2018 40th Annual International Conference of the IEEE Engineering in
-  Medicine and Biology Society (EMBC)*'
-doi: 10.1109/embc.2018.8512650
+abstract: In this issue, Gill et al. apply holographic optogenetic stimulation in
+  the olfactory bulb to control select neuronal ensembles in 3D. This approach allows
+  them to dissociate the contribution of temporal spike features and spike rate to
+  stimulus detection.
+publication: '*Neuron*'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0896627320307753
+doi: https://doi.org/10.1016/j.neuron.2020.10.007
 ---

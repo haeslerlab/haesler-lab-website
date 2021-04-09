@@ -12,17 +12,17 @@ authors:
 - Pamela Martin del Olmo
 - Sebastian Haesler
 tags:
-- '"anterior commissure"'
-- '"anterior olfactory nucleus"'
 - '"exploratory sniffing"'
-- '"infrared thermography"'
+- '"orienting response"'
 - '"novelty"'
+- '"anterior olfactory nucleus"'
+- '"anterior commissure"'
 - '"odor source localization"'
 - '"optogenetics"'
-- '"orienting response"'
+- '"infrared thermography"'
 categories: []
 date: '2017-01-01'
-lastmod: 2020-09-09T22:04:27+02:00
+lastmod: 2021-04-09T16:39:46+02:00
 featured: false
 draft: false
 
@@ -40,14 +40,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-09T20:04:27.675161Z'
+publishDate: '2021-04-09T14:39:46.467300Z'
 publication_types:
-- 2
-abstract: Navigation, finding food sources, and avoiding danger critically depend
-  on the identification and spatial localization of airborne chemicals. When monitoring
-  the olfactory environment, rodents spontaneously engage in active olfactory sampling
-  behavior, also referred to as exploratory sniffing [1]. Exploratory sniffing is
-  characterized by stereotypical high-frequency respiration, which is also reliably
+- '2'
+abstract: Summary Navigation, finding food sources, and avoiding danger critically
+  depend on the identification and spatial localization of airborne chemicals. When
+  monitoring the olfactory environment, rodents spontaneously engage in active olfactory
+  sampling behavior, also referred to as exploratory sniffing [1]. Exploratory sniffing
+  is characterized by stereotypical high-frequency respiration, which is also reliably
   evoked by novel odorant stimuli [2, 3]. To study novelty-induced exploratory sniffing,
   we developed a novel, non-contact method for measuring respiration by infrared (IR)
   thermography in a behavioral paradigm in which novel and familiar stimuli are presented
@@ -66,5 +66,6 @@ abstract: Navigation, finding food sources, and avoiding danger critically depen
   that the AON plays an important role in the internostril difference comparison underlying
   rapid odor source localization.
 publication: '*Current Biology*'
-doi: 10.1016/j.cub.2017.04.027
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0960982217304360
+doi: https://doi.org/10.1016/j.cub.2017.04.027
 ---

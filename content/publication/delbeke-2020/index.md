@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2020-09-09T22:04:29+02:00
+lastmod: 2021-04-09T16:39:47+02:00
 featured: false
 draft: false
 
@@ -29,10 +29,26 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-09T20:04:28.721901Z'
+publishDate: '2021-04-09T14:39:47.214477Z'
 publication_types:
-- 6
-abstract: ''
-publication: '*Neural Interface Engineering*'
+- '6'
+abstract: Implanted neural interfaces represent a rapidly growing field, which includes
+  deep brain, peroneal, phrenic, and vagus nerve stimulators, while substantial research
+  efforts have been invested in the development of experimental applications, such
+  as cortical prostheses, retinal prostheses, spinal cord stimulators, etc. The aim
+  of the present chapter is to provide a gap analysis of the field and to debate where
+  future efforts must be directed. The presented gap analysis is intended to informing
+  preventive actions or design decisions for further improvement of the design, fabrication,
+  and exploitation methods of implants. The development of more compliant electrodes
+  remains the main technological challenge. In our view, more efforts in the understanding
+  of the mechanical interactions of an electrode with the surrounding tissue are necessary
+  in order to achieve the next technological breakthrough. The systematic analysis
+  of failure modes of neural interfaces appears to be a key enabling factor for further
+  progress in the field and overall device improvements. Enabling such analysis calls
+  for the implementation of more comprehensive reporting systems, capturing the necessary
+  information.
+publication: '*Neural Interface Engineering: Linking the Physical World and the Nervous
+  System*'
+url_pdf: https://doi.org/10.1007/978-3-030-41854-0_6
 doi: 10.1007/978-3-030-41854-0_6
 ---
