@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T14:39:44.951128Z'
+publishDate: '2021-04-09T15:54:26.919028Z'
 publication_types:
 - '2'
 abstract: In this issue, Gill et al. apply holographic optogenetic stimulation in

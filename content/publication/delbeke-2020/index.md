@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T14:39:47.214477Z'
+publishDate: '2021-04-09T15:54:29.170760Z'
 publication_types:
 - '6'
 abstract: Implanted neural interfaces represent a rapidly growing field, which includes

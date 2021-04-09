@@ -63,7 +63,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T14:39:40.554016Z'
+publishDate: '2021-04-09T15:54:26.164717Z'
 publication_types:
 - '2'
 abstract: To study the dynamics of neural processing across timescales, we require

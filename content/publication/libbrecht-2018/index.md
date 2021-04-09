@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T14:39:45.710380Z'
+publishDate: '2021-04-09T15:54:27.670131Z'
 publication_types:
 - '2'
 abstract: ' Optogenetic manipulations are widely used for investigating the contribution

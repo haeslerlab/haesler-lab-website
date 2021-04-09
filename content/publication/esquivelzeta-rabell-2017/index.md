@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-09T14:39:46.467300Z'
+publishDate: '2021-04-09T15:54:28.422143Z'
 publication_types:
 - '2'
 abstract: Summary Navigation, finding food sources, and avoiding danger critically
