@@ -301,3 +301,12 @@ collections:
             widget: "boolean"
             default: false
           - {label: "Body", name: "body", widget: "markdown"}
+
+
+---
+# Generate Wowchemy CMS
+type: wowchemycms
+outputs:
+  - wowchemycms_config
+  - HTML
+---
