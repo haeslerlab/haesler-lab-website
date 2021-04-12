@@ -20,24 +20,24 @@ organizations:
   url: http://www.nerf.be
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+bio: My research interests include systems biology, neurobiology and neurotech.
 
 interests:
-- Neuroscience
-- 
-- 
+- Circuit neuroscience
+- Learning & memory
+- Neurotechnology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 
-  - course: Master's degree in 
-    institution: 
-    year: 
-  - course: BSc in 
-    institution: 
-    year: 
+  - course: Postdoc
+    institution: Harvard University, US
+    year: 2007-2012
+  - course: PhD 
+    institution: Max Planck Institute for Molecular Genetics, Germany
+    year: 2006
+  - course: MSc
+    institution: Hohenheim University, Germany
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,16 +46,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:sebastian.haesler@nerf.be
 - icon: linkedin
   icon_pack: fab
-  link: 
-- icon: google-scholar
-  icon_pack: ai
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
+  link: https://be.linkedin.com/in/sebastian-haesler-05abb331
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,6 +66,6 @@ user_groups:
 - Principal Investigators
 ---
 
-Sebastian Haesler is a professor of Morbi massa sapien, egestas ac urna ac, porta porttitor dui. Nullam sagittis felis ut magna pretium faucibus. Aenean non leo finibus, efficitur neque nec, finibus sem. Donec viverra, nibh ut blandit facilisis, libero ex suscipit velit, sit amet condimentum odio lacus vitae mauris. Donec porta venenatis diam, non feugiat elit egestas nec. Donec sit amet porta sem. Aenean porta odio nec lectus sollicitudin, eu lobortis ligula bibendum.
+We aim to gain a mechanistic understanding of the brain by studying fundamental information processing problems, that are evolutionarily conserved and can be readily studied in mice, the genetically most tractable mammal. Specifically, we focus on a simple computation, the ability to discriminate novel from familiar sensory stimuli.
 
-Ut ante velit, vestibulum quis euismod sit amet, euismod eget turpis. In interdum venenatis mauris, a tincidunt massa pulvinar at. Suspendisse mollis scelerisque suscipit. Aenean elementum tortor nec erat rutrum tempor. Quisque mattis bibendum metus, a sagittis nibh convallis eu. Etiam ut porta lorem. Nulla gravida ipsum at felis tristique congue.
+In addition to the experimental work on novelty circuits, we develop novel brain interfaces to address current limitations for measuring and manipulating the brain
