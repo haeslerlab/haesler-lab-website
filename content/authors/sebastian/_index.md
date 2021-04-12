@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 We aim to gain a mechanistic understanding of the brain by studying fundamental information processing problems, that are evolutionarily conserved and can be readily studied in mice, the genetically most tractable mammal. Specifically, we focus on a simple computation, the ability to discriminate novel from familiar sensory stimuli.
