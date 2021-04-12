@@ -1,7 +1,0 @@
-module:
-  imports:
-    # Any Hugo modules you installed will appear here.
-  
-    # Add the Wowchemy CMS module below, if it has not already been added:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
