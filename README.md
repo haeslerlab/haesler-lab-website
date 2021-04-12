@@ -1,7 +1,7 @@
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
 
-#Source code for the [Haesler lab website](https://haeslerlab.com/)
+# Source code for the [Haesler lab website](https://haeslerlab.com/)
 
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
