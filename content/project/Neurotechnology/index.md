@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Novelty & Curiosity"
+title: "Neurotechnology"
 summary: ""
-authors: [martijn, jose, eleonore, sebastian]
+authors: [horacio, simone, jasper, paoline]
 tags: []
 categories: []
-date: 2021-01-27T14:29:02+01:00
+date: 2020-09-09T22:06:23+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Contextual curiosity"
+  caption: "Neurotech"
   focal_point: smart
   preview_only: false
 
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-When humans or animals detect novel stimuli in their environment, they respond with distinct orienting and exploratory behaviors. We study the brain mechanisms that modulate these behaviours and we develop new experimental methods to improve our abilities to measure and manipulate neurons in the brain.
+Based on the imec campus, NERF is the perfect centre to mix cutting-edge technology with neuroscience. At Haesler lab, we specifically focus on improving our understanding of the brain by developing new tools that allow us to better interact with the central nervous system. This line of research is proceeding along different routes that explore different aspects of brain connectivity, ranging from purely electrical, through to electrochemical and all the way to fluidic. 

@@ -62,7 +62,7 @@ social:
 email: ""
 
 user_groups:
-- Senior staff
+- Alumni
 
 ---
 

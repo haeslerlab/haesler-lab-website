@@ -26,7 +26,7 @@ organizations:
   url: https://www.fwo.be
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neurotech, mobile computing and programmable matter.
+bio: My research interests mostly include neurotech and brain-computer interfaces.
 
 interests:
 - Neurotechnology
