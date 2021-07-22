@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neurotech | Haesler Lab</title>
+    <link>http://localhost:1313/tag/neurotech/</link>
+      <atom:link href="http://localhost:1313/tag/neurotech/index.xml" rel="self" type="application/rss+xml" />
+    <description>neurotech</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 22:06:23 +0200</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huf43af308e576644e753f64bc7378bafe_14182_512x512_fill_lanczos_center_3.png</url>
+      <title>neurotech</title>
+      <link>http://localhost:1313/tag/neurotech/</link>
+    </image>
+    
+    <item>
+      <title>Neurotechnology</title>
+      <link>http://localhost:1313/project/neurotechnology/</link>
+      <pubDate>Wed, 09 Sep 2020 22:06:23 +0200</pubDate>
+      <guid>http://localhost:1313/project/neurotechnology/</guid>
+      <description>&lt;p&gt;Based on the imec campus, NERF is the perfect centre to mix cutting-edge technology with neuroscience. At Haesler lab, we specifically focus on improving our understanding of the brain by developing new tools that allow us to better interact with the central nervous system. This line of research is proceeding along different routes that explore different aspects of brain connectivity, ranging from purely electrical, through to electrochemical and all the way to fluidic.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

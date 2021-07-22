@@ -4,7 +4,7 @@
 title: "Novelty & Curiosity"
 summary: ""
 authors: [martijn, jose, eleonore, sebastian]
-tags: []
+tags: [neuroscience]
 categories: []
 date: 2021-01-27T14:29:02+01:00
 
@@ -40,4 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-When humans or animals detect novel stimuli in their environment, they respond with distinct orienting and exploratory behaviors. We study the brain mechanisms that modulate these behaviours and we develop new experimental methods to improve our abilities to measure and manipulate neurons in the brain.
+When humans or animals detect novel stimuli in their environment, they respond with distinct orienting and exploratory behaviours, caused by an innate drive of perceptual curiosity. We study the brain mechanisms in the olfactory system that gives rise to these behaviours, and how these behaviours are affected by differences in stimulus quality and neuromodulatory input.
+ 
+
+In addition, we develop new experimental methods to improve our abilities to measure and manipulate neurons in the brain.

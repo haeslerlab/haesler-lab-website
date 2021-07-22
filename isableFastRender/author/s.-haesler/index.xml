@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Haesler | Haesler Lab</title>
+    <link>http://localhost:1313/author/s.-haesler/</link>
+      <atom:link href="http://localhost:1313/author/s.-haesler/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Haesler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huf43af308e576644e753f64bc7378bafe_14182_512x512_fill_lanczos_center_3.png</url>
+      <title>S. Haesler</title>
+      <link>http://localhost:1313/author/s.-haesler/</link>
+    </image>
+    
+    <item>
+      <title>High-density optrode-electrode neural probe using SixNy photonics for in vivo optogenetics</title>
+      <link>http://localhost:1313/publication/hoffman-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hoffman-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

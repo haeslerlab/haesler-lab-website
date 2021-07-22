@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haesler Lab</title>
+    <link>http://localhost:1313/authors/</link>
+      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haesler Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 14:29:02 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huf43af308e576644e753f64bc7378bafe_14182_512x512_fill_lanczos_center_3.png</url>
+      <title>Haesler Lab</title>
+      <link>http://localhost:1313/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

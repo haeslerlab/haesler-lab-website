@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kadir Mutlu | Haesler Lab</title>
+    <link>http://localhost:1313/author/kadir-mutlu/</link>
+      <atom:link href="http://localhost:1313/author/kadir-mutlu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kadir Mutlu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huf43af308e576644e753f64bc7378bafe_14182_512x512_fill_lanczos_center_3.png</url>
+      <title>Kadir Mutlu</title>
+      <link>http://localhost:1313/author/kadir-mutlu/</link>
+    </image>
+    
+    <item>
+      <title>IR thermography-based monitoring of respiration phase without image segmentation</title>
+      <link>http://localhost:1313/publication/mutlu-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutlu-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous Rapid Odor Source Localization Behavior Requires Interhemispheric Communication</title>
+      <link>http://localhost:1313/publication/esquivelzeta-rabell-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/esquivelzeta-rabell-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

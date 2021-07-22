@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Haesler Lab</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huf43af308e576644e753f64bc7378bafe_14182_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Implantation of Neuropixels probes for chronic recording of neuronal activity in freely behaving mice and rats</title>
+      <link>http://localhost:1313/publication/van-daal-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/van-daal-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cue-Evoked Dopamine Promotes Conditioned Responding during Learning</title>
+      <link>http://localhost:1313/publication/morrens-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/morrens-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Failure Modes of Implanted Neural Interfaces</title>
+      <link>http://localhost:1313/publication/delbeke-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/delbeke-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings</title>
+      <link>http://localhost:1313/publication/steinmetz-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/steinmetz-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing Olfaction in Space and Time</title>
+      <link>http://localhost:1313/publication/esquivelzeta-rabell-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/esquivelzeta-rabell-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of the Stimulation Capabilities of a High-Resolution Neurorecording Probe for the Application of Closed-Loop Deep Brain Stimulation*</title>
+      <link>http://localhost:1313/publication/tarnaud-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tarnaud-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IR thermography-based monitoring of respiration phase without image segmentation</title>
+      <link>http://localhost:1313/publication/mutlu-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutlu-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proximal and distal modulation of neural activity by spatially confined optogenetic activation with an integrated high-density optoelectrode</title>
+      <link>http://localhost:1313/publication/libbrecht-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/libbrecht-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous Rapid Odor Source Localization Behavior Requires Interhemispheric Communication</title>
+      <link>http://localhost:1313/publication/esquivelzeta-rabell-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/esquivelzeta-rabell-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurotechnology and Society: Strengthening Responsible Innovation in Brain Science</title>
+      <link>http://localhost:1313/publication/garden-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garden-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-density optrode-electrode neural probe using SixNy photonics for in vivo optogenetics</title>
+      <link>http://localhost:1313/publication/hoffman-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hoffman-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>http://localhost:1313/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genes for tuning up the vocal brain: FoxP2 in human speech and birdsong</title>
+      <link>http://localhost:1313/publication/haesler-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/haesler-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
