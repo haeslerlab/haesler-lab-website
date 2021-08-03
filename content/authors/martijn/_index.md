@@ -77,8 +77,6 @@ user_groups:
 
 ---
 
-
-
 Martijn Broux is a PhD student in the lab of Sebastian Haesler, one of the 6 research groups at NERF, an inter-disciplinary research institute bringing togheter the neuroscience with state-of-the-art engineering technologies. He works on investigating how animals interpret smells that they encounter in the environment. More specifically, he focuses on the brain regions involved in short and long-term habituation to odorants, and differentiating between familiar and novel smells.
 
 "My work focuses on a specific part of the olfactory system and its function in the processing of information. This part is the Anterior Olfactory Nucleus, or AON in short. It is a region for which there is a lot left to discover and a fascinating subject for my research project."
