@@ -3,7 +3,7 @@
 
 title: "Novelty & Curiosity"
 summary: ""
-authors: [martijn, jose, eleonore, sebastian]
+authors: [martijn, jose, eleonore, cagatay, kacper, robin, sebastian]
 tags: [neuroscience]
 categories: []
 date: 2021-01-27T14:29:02+01:00

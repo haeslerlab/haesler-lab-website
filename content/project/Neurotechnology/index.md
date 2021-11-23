@@ -3,7 +3,7 @@
 
 title: "Neurotechnology"
 summary: ""
-authors: [horacio, simone, jasper, paoline]
+authors: [horacio, simone, jasper, paoline, sebastian]
 tags: [neurotech]
 categories: []
 date: 2020-09-09T22:06:23+02:00
