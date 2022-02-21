@@ -32,7 +32,7 @@ interests:
 education:
   courses:
   - course: Bachelor in Psychology
-    institution: Universitat de València
+    institution: Universitat de ValÃ¨ncia
     year: 2016
 
 # Social/Academic Networking
@@ -59,9 +59,4 @@ user_groups:
 
 ---
 
-Long BIO: 
-
-I am an R&D assistant in the team of Sebastian Haesler at NERF. I am in charge of the
-laboratory management and logistics, among other functions; on one hand ensuring
-optimal use of materials and spaces within the laboratory and on the other hand to
-ensure compliance with the rules to achieve an effective functioning of the team.
+I am an R&D assistant in the team of Sebastian Haesler at NERF. I am in charge of the laboratory management and logistics, among other functions; on one hand ensuring optimal use of materials and spaces within the laboratory and on the other hand to ensure compliance with the rules to achieve an effective functioning of the team.
