@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto: Pamela.MartindelOlmo@nerf.be 
+  link: mailto:pamela.martindelolmo@nerf.be 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, uncomment the lines below and send the pdf to me
