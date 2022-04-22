@@ -22,13 +22,6 @@ organizations:
   url: https://www.imec-int.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-
-interests:
-- 
-- 
-- 
-
 education:
   courses:
   - course: Bachelor in Psychology

@@ -5,7 +5,7 @@
 
 title: Haesler Lab # Website name
 baseurl: 'https://haeslerlab.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {2020} Haesler Lab (NERF)' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
