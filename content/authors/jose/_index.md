@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
@@ -71,6 +71,6 @@ email: ""
 # Doctoral students
 # Alumni
 user_groups:
-- Doctoral students
+- Senior staff
 
 ---
