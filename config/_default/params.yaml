@@ -15,8 +15,8 @@ font_size: L
 site_type: EducationalOrganization
 local_business_type: ''
 org_name: 'Haesler Lab'
-description: ''
-twitter: ''
+description: 'Research lab under Sebastian Haesler located in Leuven, Belgium withn NERF'
+twitter: 'sebhaesler'
 
 # Contact (edit or remove options as required)
 
@@ -137,7 +137,7 @@ map:
 marketing:
   google_analytics: ''
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: '4ySLzPMmDCnZ8h3L7A5YEtp919U4Y4aS-TYGkSvVobU'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
