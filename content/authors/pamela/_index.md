@@ -48,7 +48,7 @@ email: ""
 
 
 user_groups:
-- Research assistants
+- Support staff
 
 ---
 
