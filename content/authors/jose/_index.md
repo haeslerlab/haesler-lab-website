@@ -71,6 +71,6 @@ email: ""
 # Doctoral students
 # Alumni
 user_groups:
-- Senior staff
+- Alumni
 
 ---

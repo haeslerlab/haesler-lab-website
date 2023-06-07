@@ -73,7 +73,7 @@ email: ""
 # Doctoral students
 # Alumni
 user_groups:
-- Doctoral students
+- Alumni
 
 ---
 
